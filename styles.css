@@ -1,0 +1,14 @@
+.background-body{
+    background-color: palegoldenrod;
+    height: max-content;
+}
+
+.centered{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-style{
+    border-color:pink;
+}
